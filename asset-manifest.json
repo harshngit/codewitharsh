@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/codewitharsh/static/css/main.f714ab23.css",
+    "main.js": "/codewitharsh/static/js/main.d9a89cda.js",
+    "static/js/453.0c80ff34.chunk.js": "/codewitharsh/static/js/453.0c80ff34.chunk.js",
+    "static/media/project.jpg": "/codewitharsh/static/media/project.eb8bbea68aa8b2c57822.jpg",
+    "static/media/marketing.jpg": "/codewitharsh/static/media/marketing.f0728ae9eb69d41ac1e6.jpg",
+    "static/media/digital.jpg": "/codewitharsh/static/media/digital.5b760775035ed6aaa74c.jpg",
+    "static/media/data.jpg": "/codewitharsh/static/media/data.fdf8830fe0dd01465acb.jpg",
+    "static/media/img2.svg": "/codewitharsh/static/media/img2.d12e2a271e618bd9bc130b61d3930482.svg",
+    "static/media/web.jpg": "/codewitharsh/static/media/web.95f23195b2b13c090352.jpg",
+    "static/media/logo.png": "/codewitharsh/static/media/logo.842d7abce4b94d73ef18.png",
+    "static/media/content.jpg": "/codewitharsh/static/media/content.c847a1c533ef2fe12d12.jpg",
+    "index.html": "/codewitharsh/index.html",
+    "main.f714ab23.css.map": "/codewitharsh/static/css/main.f714ab23.css.map",
+    "main.d9a89cda.js.map": "/codewitharsh/static/js/main.d9a89cda.js.map",
+    "453.0c80ff34.chunk.js.map": "/codewitharsh/static/js/453.0c80ff34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f714ab23.css",
+    "static/js/main.d9a89cda.js"
+  ]
+}
